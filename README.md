@@ -1,5 +1,5 @@
 # minecraft-mips-cpu
-Working CPU in Minecraft Bedrock, made by RileyTAS (formerly known as rayyaw)
+Working CPU in Minecraft Bedrock, made by me!
 
 # Copyright
 
